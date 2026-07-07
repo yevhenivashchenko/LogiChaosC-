@@ -14,7 +14,7 @@ Custom transformation pipeline
 Platform independent
 Easy integration into existing projects
 Concept
-Original Data
+Original Data.
       │
       ▼
 +----------------+
