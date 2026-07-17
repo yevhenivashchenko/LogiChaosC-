@@ -1,0 +1,20 @@
+# Automatic line ending adjustment
+* text=auto
+
+# C++ source files and documentation - always treat as text
+*.cpp text
+*.hpp text
+*.h text
+*.c text
+*.md text
+*.txt text
+LICENSE text
+.gitignore text
+
+# Scripts - Force LF (Important for Linux/macOS)
+*.sh text eol=lf
+
+# Binary files - do not modify them
+*.png binary
+*.jpg binary
+*.pdf binary
