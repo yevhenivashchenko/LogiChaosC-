@@ -1,0 +1,30 @@
+# --- C++ Build & Output ---
+build/
+bin/
+out/
+dist/
+*.exe
+*.out
+*.app
+*.so
+*.dylib
+*.dll
+*.o
+*.obj
+*.gch
+*.ilk
+*.pdb
+
+# --- IDE & Editor Configuration ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*.user
+.DS_Store
+
+# --- Project Specific ---
+venv/
+__pycache__/
+*.log
+*.tmp
