@@ -15,7 +15,7 @@ dist/
 *.ilk
 *.pdb
 
-# --- IDE & Editor Configuration ---
+# --- IDE & Editor Configuration ----
 .vscode/
 .idea/
 *.swp
