@@ -5,7 +5,7 @@ On one side, data remains completely valid, structured, and human-readable.
 Inside the transformation layer, the original data is converted into a chaotic, heavily obfuscated representation that looks meaningless to anyone without the library.
 Only ChaosLayer itself can restore the original information back into its initial form.
 Features
-Written in modern C++.../.\......
+Written in modern C++.../.\.......
 Open Source
 Reversible data transformation
 Binary-safe
